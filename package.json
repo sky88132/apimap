@@ -1,0 +1,8 @@
+{
+  "name": "sai-distance",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "check": "node --check app.js && node --check distance.js", "dev": "node server.js" },
+  "engines": { "node": ">=22" }
+}
